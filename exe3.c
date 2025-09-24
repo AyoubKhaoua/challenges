@@ -2,7 +2,9 @@
 #include <math.h>
 int main (){
     const float p=3.14;
+    //le volume d'une sphère
     float v ;
+    //rayon
     int r;
     printf("entrer le rayon de la sphere :");
     scanf("%d",&r);
